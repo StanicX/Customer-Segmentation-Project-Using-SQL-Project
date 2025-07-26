@@ -53,8 +53,3 @@ A practical project analyzing customer purchase patterns from sales data using S
 ## Inspiration
 
 This project gave hands-on experience with customer analytics through SQL and showcased how businesses use data insights for better strategies. Fork or adapt for your own analytics studies!
-
----
-
-#hashtags  
-#SQL #CustomerSegmentation #DataAnalytics #SQLProject #PurchaseAnalysis #BusinessIntelligence #QueryOptimization #RetailAnalytics #DatabaseLearning #SQLQueries #DataAnalysis #CustomerInsights
