@@ -48,7 +48,7 @@ A practical project analyzing customer purchase patterns from sales data using S
 ## Credits & Contributors
 
 - Special thanks to Rituraj Dixit Sir for guidance and valuable feedback.
-- Project built and maintained by [your name or GitHub username].
+- Project built and maintained by [StanicX](https://github.com/StanicX).
 
 ## Inspiration
 
